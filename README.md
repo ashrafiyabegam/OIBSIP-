@@ -1,4 +1,5 @@
-# EDA on Retail Sales Data
+# Project 1: Exploratory Data Analysis (EDA) on Retail Sales Data
+**Level:** Level 1 – Data Analytics
 
 ## Internship
 Oasis Infobyte – Data Analytics Internship
@@ -26,3 +27,24 @@ Global Fashion Retail Stores Dataset (Kaggle)
 
 ## Conclusion
 The analysis highlights sales trends, category performance, and transaction patterns that can help improve business decisions.
+
+---
+
+## Project 2: Customer Segmentation Analysis
+**Level:** Level 1 – Data Analytics
+
+### Objective
+To segment customers based on purchasing behavior using clustering techniques to support targeted marketing strategies.
+
+### Techniques Used
+- Data cleaning and preprocessing
+- Feature scaling
+- K-Means clustering
+- Elbow method for optimal cluster selection
+- Customer segment visualization
+
+### Dataset
+Marketing Analytics – Customer Segmentation (Kaggle)
+
+### Key Outcome
+Identified distinct customer segments such as high-value customers, moderate buyers, and low-engagement customers, enabling data-driven marketing decisions.
