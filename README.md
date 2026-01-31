@@ -48,3 +48,24 @@ Marketing Analytics – Customer Segmentation (Kaggle)
 
 ### Key Outcome
 Identified distinct customer segments such as high-value customers, moderate buyers, and low-engagement customers, enabling data-driven marketing decisions.
+
+---
+
+## Project 3: Data Cleaning
+**Level:** Level 1 – Data Analytics
+
+### Objective
+To clean and preprocess raw data by handling missing values, duplicates, inconsistencies, and outliers to improve data quality and reliability.
+
+### Dataset
+New York City Airbnb Open Data (Kaggle)
+
+### Data Cleaning Steps
+- Identified and handled missing values
+- Removed duplicate records
+- Standardized column names and categorical values
+- Detected and treated outliers using the IQR method
+- Validated cleaned dataset
+
+### Outcome
+The cleaning process significantly improved data consistency, accuracy, and readiness for analysis.
