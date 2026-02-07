@@ -69,3 +69,25 @@ New York City Airbnb Open Data (Kaggle)
 
 ### Outcome
 The cleaning process significantly improved data consistency, accuracy, and readiness for analysis.
+
+---
+
+## Project 4: Sentiment Analysis
+**Level:** Level 1 – Data Analytics
+
+### Objective
+To develop a sentiment analysis model that classifies text data into negative, neutral, and positive sentiments using NLP and machine learning techniques.
+
+### Techniques Used
+- Text preprocessing
+- TF-IDF feature extraction
+- Label encoding
+- Naive Bayes classification
+- Model evaluation and visualization
+
+### Dataset
+Twitter Sentiment Dataset (Kaggle)
+
+### Outcome
+The sentiment analysis model successfully classified text sentiments and provided insights into public opinion and social media trends.
+
