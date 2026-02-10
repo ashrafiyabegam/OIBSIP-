@@ -167,7 +167,6 @@ Credit Card Fraud Detection Dataset (Kaggle)
 The project successfully demonstrated the application of machine learning techniques for fraud detection and provided hands-on experience in handling imbalanced datasets and anomaly detection problems.
 
 ---
----
 
 ## Project 4: Google Play Store Data Analysis
 **Level:** Level 2 – Data Analytics
