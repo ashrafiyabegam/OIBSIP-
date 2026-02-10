@@ -167,3 +167,25 @@ Credit Card Fraud Detection Dataset (Kaggle)
 The project successfully demonstrated the application of machine learning techniques for fraud detection and provided hands-on experience in handling imbalanced datasets and anomaly detection problems.
 
 ---
+---
+
+## Project 4: Google Play Store Data Analysis
+**Level:** Level 2 – Data Analytics
+
+### Objective
+To analyze Google Play Store data by cleaning, categorizing, and visualizing app information to understand Android app market trends.
+
+### Dataset
+Google Play Store Apps & User Reviews Dataset (Kaggle)
+
+### Analysis Steps
+- Data cleaning and preprocessing
+- Category-wise app distribution analysis
+- Analysis of ratings, installs, and pricing trends
+- Sentiment analysis of user reviews
+- Visualization of key market insights
+
+### Outcome
+The project provided valuable insights into app market dynamics, user preferences, and sentiment trends across different app categories.
+
+---
