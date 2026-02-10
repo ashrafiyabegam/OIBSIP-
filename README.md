@@ -91,3 +91,79 @@ Twitter Sentiment Dataset (Kaggle)
 ### Outcome
 The sentiment analysis model successfully classified text sentiments and provided insights into public opinion and social media trends.
 
+---
+
+## Project 1: Predicting House Prices with Linear Regression
+**Level:** Level 2 – Data Analytics
+
+### Objective
+To build a predictive model using Linear Regression to estimate house prices based on relevant numerical features and understand the relationship between features and the target variable.
+
+### Dataset
+House Price Prediction Dataset (Kaggle)
+
+### Modeling Steps
+- Loaded and explored the dataset to understand its structure
+- Handled missing values and ensured data quality
+- Performed feature selection and preprocessing
+- Split the dataset into training and testing sets
+- Trained a Linear Regression model using Scikit-learn
+- Evaluated model performance using metrics such as Mean Squared Error (MSE) and R-squared
+- Visualized predicted vs actual house prices
+
+### Outcome
+The Linear Regression model successfully captured the relationship between input features and house prices, providing reliable predictions and practical experience in building and evaluating regression models.
+
+---
+
+## Project 2: Wine Quality Prediction
+**Level:** Level 2 – Data Analytics
+
+### Objective
+To predict the quality of wine based on its chemical characteristics using machine learning classification models and analyze how different features influence wine quality.
+
+### Dataset
+Wine Quality Dataset (Kaggle)
+
+### Modeling Steps
+- Loaded and explored the wine quality dataset
+- Performed exploratory data analysis to understand feature distributions
+- Handled missing values and ensured data consistency
+- Selected relevant chemical features such as acidity, density, and alcohol
+- Split the dataset into training and testing sets
+- Trained multiple classification models:
+  - Random Forest Classifier
+  - Support Vector Classifier (SVC)
+  - Stochastic Gradient Descent (SGD)
+- Evaluated and compared model performance
+
+### Outcome
+The project successfully identified key chemical factors affecting wine quality and demonstrated the effectiveness of different classification algorithms in predicting wine quality.
+
+---
+
+## Project 3: Fraud Detection
+**Level:** Level 2 – Data Analytics
+
+### Objective
+To detect fraudulent financial transactions by identifying anomalous patterns and suspicious behavior using machine learning models.
+
+### Dataset
+Credit Card Fraud Detection Dataset (Kaggle)
+
+### Modeling Steps
+- Loaded and explored the transaction dataset
+- Analyzed class imbalance between legitimate and fraudulent transactions
+- Handled missing values in features and removed rows with missing target labels
+- Applied feature scaling and preprocessing
+- Split the dataset into training and testing sets
+- Trained machine learning models:
+  - Logistic Regression
+  - Decision Tree Classifier
+- Evaluated model performance using classification metrics such as precision, recall, and F1-score
+- Analyzed model effectiveness in detecting fraudulent transactions
+
+### Outcome
+The project successfully demonstrated the application of machine learning techniques for fraud detection and provided hands-on experience in handling imbalanced datasets and anomaly detection problems.
+
+---
