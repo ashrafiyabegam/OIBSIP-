@@ -1,3 +1,5 @@
+## 🌱 Level 1 Projects – Foundation in Data Analytics
+
 # Project 1: Exploratory Data Analysis (EDA) on Retail Sales Data
 **Level:** Level 1 – Data Analytics
 
@@ -92,6 +94,7 @@ Twitter Sentiment Dataset (Kaggle)
 The sentiment analysis model successfully classified text sentiments and provided insights into public opinion and social media trends.
 
 ---
+## 🚀 Level 2 Projects – Advanced Data Analytics
 
 ## Project 1: Predicting House Prices with Linear Regression
 **Level:** Level 2 – Data Analytics
