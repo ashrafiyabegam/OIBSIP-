@@ -1,10 +1,4 @@
-# Data Analytics Internship Projects
-
-**Organization:** Oasis Infobyte  
-**Role:** Data Analytics Intern  
-**Mode:** Remote  
-
-This repository contains internship tasks completed as part of the **Data Analytics Internship at Oasis Infobyte**, organized into **Level 1 (Foundational Analytics)** and **Level 2 (Advanced Analytics & Machine Learning)**.
+# Oasis Infobyte-Data Analytics Internship Projects
 
 ## 🌱 Level 1 Projects – Foundation in Data Analytics
 
