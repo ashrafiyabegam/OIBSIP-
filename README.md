@@ -1,11 +1,14 @@
 # Data Analytics Internship Projects
 
+**Organization:** Oasis Infobyte  
+**Role:** Data Analytics Intern  
+**Mode:** Remote  
+
+This repository contains internship tasks completed as part of the **Data Analytics Internship at Oasis Infobyte**, organized into **Level 1 (Foundational Analytics)** and **Level 2 (Advanced Analytics & Machine Learning)**.
+
 ## 🌱 Level 1 Projects – Foundation in Data Analytics
 
 ## Project 1: Exploratory Data Analysis (EDA) on Retail Sales Data
-
-## Internship
-Oasis Infobyte – Data Analytics Internship
 
 ## Objective
 To perform Exploratory Data Analysis (EDA) on retail sales data and extract meaningful insights.
@@ -167,7 +170,6 @@ The project successfully demonstrated the application of machine learning techni
 ---
 
 ## Project 4: Google Play Store Data Analysis
-**Level:** Level 2 – Data Analytics
 
 ### Objective
 To analyze Google Play Store data by cleaning, categorizing, and visualizing app information to understand Android app market trends.
@@ -188,7 +190,6 @@ The project provided valuable insights into app market dynamics, user preference
 ---
 
 ## Project 5: Autocomplete & Autocorrect Data Analytics
-**Level:** Level 2 – Data Analytics
 
 ### Objective
 To analyze and implement autocomplete and autocorrect techniques using Natural Language Processing (NLP) to improve text prediction accuracy and enhance overall user experience.
