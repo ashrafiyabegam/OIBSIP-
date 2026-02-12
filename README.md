@@ -188,3 +188,27 @@ Google Play Store Apps & User Reviews Dataset (Kaggle)
 The project provided valuable insights into app market dynamics, user preferences, and sentiment trends across different app categories.
 
 ---
+
+## Project 5: Autocomplete & Autocorrect Data Analytics
+**Level:** Level 2 – Data Analytics
+
+### Objective
+To analyze and implement autocomplete and autocorrect techniques using Natural Language Processing (NLP) to improve text prediction accuracy and enhance overall user experience.
+
+### Techniques Used
+- Text preprocessing and cleaning
+- Tokenization and vocabulary building
+- N-gram based autocomplete implementation
+- Similarity-based autocorrect algorithm
+- Performance analysis of prediction accuracy
+- Data visualization of word frequency and patterns
+
+### Dataset
+Credit Card Fraud Detection Dataset (Kaggle)  
+*Note: Synthetic text was generated from numerical transaction features for NLP-based analysis.*
+
+### Outcome
+The project successfully demonstrated the application of autocomplete and autocorrect techniques on structured data, highlighting the adaptability of NLP methods and improving understanding of text prediction systems.
+
+---
+
