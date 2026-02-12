@@ -2,7 +2,7 @@
 
 ## 🌱 Level 1 Projects – Foundation in Data Analytics
 
-# Project 1: Exploratory Data Analysis (EDA) on Retail Sales Data
+## Project 1: Exploratory Data Analysis (EDA) on Retail Sales Data
 
 ## Internship
 Oasis Infobyte – Data Analytics Internship
