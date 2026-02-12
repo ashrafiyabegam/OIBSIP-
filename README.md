@@ -1,7 +1,8 @@
+# Data Analytics Internship Projects
+
 ## 🌱 Level 1 Projects – Foundation in Data Analytics
 
 # Project 1: Exploratory Data Analysis (EDA) on Retail Sales Data
-**Level:** Level 1 – Data Analytics
 
 ## Internship
 Oasis Infobyte – Data Analytics Internship
@@ -33,7 +34,6 @@ The analysis highlights sales trends, category performance, and transaction patt
 ---
 
 ## Project 2: Customer Segmentation Analysis
-**Level:** Level 1 – Data Analytics
 
 ### Objective
 To segment customers based on purchasing behavior using clustering techniques to support targeted marketing strategies.
@@ -54,7 +54,6 @@ Identified distinct customer segments such as high-value customers, moderate buy
 ---
 
 ## Project 3: Data Cleaning
-**Level:** Level 1 – Data Analytics
 
 ### Objective
 To clean and preprocess raw data by handling missing values, duplicates, inconsistencies, and outliers to improve data quality and reliability.
@@ -75,7 +74,6 @@ The cleaning process significantly improved data consistency, accuracy, and read
 ---
 
 ## Project 4: Sentiment Analysis
-**Level:** Level 1 – Data Analytics
 
 ### Objective
 To develop a sentiment analysis model that classifies text data into negative, neutral, and positive sentiments using NLP and machine learning techniques.
@@ -97,7 +95,6 @@ The sentiment analysis model successfully classified text sentiments and provide
 ## 🚀 Level 2 Projects – Advanced Data Analytics
 
 ## Project 1: Predicting House Prices with Linear Regression
-**Level:** Level 2 – Data Analytics
 
 ### Objective
 To build a predictive model using Linear Regression to estimate house prices based on relevant numerical features and understand the relationship between features and the target variable.
@@ -120,7 +117,6 @@ The Linear Regression model successfully captured the relationship between input
 ---
 
 ## Project 2: Wine Quality Prediction
-**Level:** Level 2 – Data Analytics
 
 ### Objective
 To predict the quality of wine based on its chemical characteristics using machine learning classification models and analyze how different features influence wine quality.
@@ -146,7 +142,6 @@ The project successfully identified key chemical factors affecting wine quality 
 ---
 
 ## Project 3: Fraud Detection
-**Level:** Level 2 – Data Analytics
 
 ### Objective
 To detect fraudulent financial transactions by identifying anomalous patterns and suspicious behavior using machine learning models.
